@@ -1,5 +1,4 @@
 # BsTree: A gapped data parallel B-tree
-Code for  [** BsTree: A gapped data parallel B-tree **]
 
 Authors: Dimitrios Tsitsigkos, Achilleas Michalopoulos, Nikos Mamoulis, Manolis Terrovitis
 
