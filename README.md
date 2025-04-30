@@ -19,7 +19,7 @@ We have uploaded a sample of Facebook data in this Google Drive link ([link](htt
 - mixed_fb_10M.txt: 10 million entries (mixed read, write, and delete operations).
 
 If you choose to use your own dataset, please ensure that the first line of each dataset specifies its size. We also have a mapping system where:
-- 0 means **search**
+- 0 means **read**
 - 1 means **write**
 - 2 means **delete**
 - 3 means **range**
