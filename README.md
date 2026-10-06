@@ -65,3 +65,26 @@ To run:
 ```
 ./ run_example.sh
 ```
+
+
+# Cite
+```
+@inproceedings{DBLP:conf/icde/TsitsigkosMMT26,
+  author       = {Dimitrios Tsitsigkos and
+                  Achilleas Michalopoulos and
+                  Nikos Mamoulis and
+                  Manolis Terrovitis},
+  title        = {{\textdollar}{\textbackslash}mathrm\{B\}{\^{}}\{S\}{\textdollar}-Tree:
+                  {A} Gapped Data-Parallel B-Tree},
+  booktitle    = {42nd {IEEE} International Conference on Data Engineering, {ICDE} 2026,
+                  Montreal, QC, Canada, May 4-8, 2026},
+  pages        = {447--460},
+  publisher    = {{IEEE}},
+  year         = {2026},
+  url          = {https://doi.org/10.1109/ICDE65706.2026.00040},
+  doi          = {10.1109/ICDE65706.2026.00040},
+  timestamp    = {Sat, 22 Aug 2026 10:47:46 +0200},
+  biburl       = {https://dblp.org/rec/conf/icde/TsitsigkosMMT26.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
